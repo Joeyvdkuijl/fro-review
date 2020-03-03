@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+.container{
+    padding-top: 100px;
+    text-align: center;
+
+}
+.title, .myButton{
+    font-family: 'Trade Winds', ;
+    color: black;
+    font-size: 50px;
+}
+#timerlabel{
+    margin-top: 100px;
+    color: black;
+    font-size: 8em;
+}
+.myButton{
+    width: 100px;
+    height: 50px;
+    margin-top: 100px;
+    border-radius: 8px;
+    border: none;
+    background-color: gray;
+    font-size: 16px;
+}
